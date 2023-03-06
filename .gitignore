@@ -73,5 +73,8 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
-# CS415 - Ignoring Content/ for now until I can fit Assetsville in LFS
+# CS415 - Ignoring Assetsville from LFS
 Content/AssetsvilleTown/*
+
+# CS415 - Ignoring Platforms folder
+Platforms/
