@@ -75,6 +75,7 @@ DerivedDataCache/*
 
 # CS415 - Ignoring Assetsville from LFS
 Content/AssetsvilleTown/*
+!Content/AssetsvilleTown/Meshes/Characters/*
 
 # CS415 - Ignoring Platforms folder
 Platforms/
