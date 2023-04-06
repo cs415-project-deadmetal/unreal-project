@@ -74,7 +74,8 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 # CS415 - Ignoring Assetsville from LFS
-Content/AssetsvilleTown/*
+# No longer!
+# Content/AssetsvilleTown/*
 
 # CS415 - Ignoring Platforms folder
 Platforms/
